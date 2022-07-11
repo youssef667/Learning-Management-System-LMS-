@@ -35,6 +35,7 @@ Part 3:
 Replace the students’ grades with grades symbols according to the following
 table:
 Range Symbol
+
 ≥ 90 A
 
 90 < 85 B+
