@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1612065441 source:d:\codeblocks\c project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+
